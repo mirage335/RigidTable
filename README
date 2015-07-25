@@ -1,0 +1,44 @@
+_Stackup_
+From top to bottom. All layers 30"x40", see dimensions.
+1) Dual 3/4" melamine particle board.
+2) Vertically oriented finished lumber, approximating 2x4's.
+3) Melamine particle board, 3/4".
+4) Styrofoam insulation panel, for noise dampening.
+
+_Usage_
+Similar tables can easily be built with careful measurement, plenty of deck screws, and carefully selected wood products from a local hardware store (notably HomeDepot).
+
+_Performance_
+Flatness much better than 0.25mm across the entire 30"x40" surface has been maintained for several weeks. No discernable deformation occurrs under >150lbs loads.
+
+_Dimensions_
+Table is 30"x40" wide, to accomodate a LulzBot Taz derived CNC machine with the following specifications.
+
+4" Equipent Area (Y-axis)
+12" Clearance (All Axes)
+18" x 24" Build Area
+
+Mounting at ~36" height is recommended, to place a LulzBot Taz build surface at eye level for easy leveling.
+
+_License_
+The MIT License (MIT)
+
+Copyright (c) 2015 mirage335
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
